@@ -1,6 +1,6 @@
-### Hi there 👋  I'm Kat.
+### Hi there 👋   I'm Kat.
 
-Junior frontend developer. 
+Junior frontend developer. Third year student at Solent University. 
  
   ## ✨ Current Interests
  - mobile app development (Ionic)
@@ -16,6 +16,8 @@ Junior frontend developer.
 - [Huge list of Figma plugins you should know about](https://katcodes.blog/2020/11/25/huge-list-of-figma-plugins-you-should-know-about/)
 - [Developers library: license free illustrations](https://katcodes.blog/2020/05/19/developers-library-license-free-illustrations/)
 - [Create a simple toggle switch in React](https://katcodes.blog/2020/12/04/create-a-simple-toggle-switch-in-react/)
+- [Raspberry Pi scroll bot- soldering, building, coding
+](https://katcodes.blog/2020/06/02/raspberry-pi-scroll-bot-soldering-building-coding/)
 
 ## 🔍  Where to find me
 
