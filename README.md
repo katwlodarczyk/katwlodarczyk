@@ -24,7 +24,7 @@ Multi-tasker and a busy bee. Perfectionist. Photography lover. Content creator.
 
 ## 🔍  Where to find me
 
-<a target="_blank" href="https://twitter.com/kat_wlodarczyk" ><img src="https://img.shields.io/badge/-kat_wlodarczyk-1DA1F2?logo=twitter&logoColor=white&style=flat" height="30"/></a> <a target="_blank" href="https://www.linkedin.com/in/katwlodarczyk/"> <img src="https://img.shields.io/badge/-katwlodarczyk-0A66C2?logo=linkedin&logoColor=white&style=flat" height="30"/></a> <a target="_blank" href="https://katcodes.blog/"><img src="https://img.shields.io/badge/-katcodes.blog-333333?logoColor=white&style=flat" height="30"/></a>
+<a target="_blank" href="https://katwlodarczyk.com/"><img src="https://img.shields.io/badge/-katwlodarczyk.com-289789?logoColor=white&style=flat" height="30"/></a> <a target="_blank" href="https://twitter.com/kat_wlodarczyk" ><img src="https://img.shields.io/badge/-kat_wlodarczyk-1DA1F2?logo=twitter&logoColor=white&style=flat" height="30"/></a> <a target="_blank" href="https://www.linkedin.com/in/katwlodarczyk/"> <img src="https://img.shields.io/badge/-katwlodarczyk-0A66C2?logo=linkedin&logoColor=white&style=flat" height="30"/></a> <a target="_blank" href="https://katcodes.blog/"><img src="https://img.shields.io/badge/-katcodes.blog-333333?logoColor=white&style=flat" height="30"/></a>
 
  
 
