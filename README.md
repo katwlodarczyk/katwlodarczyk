@@ -10,6 +10,7 @@ Multi-tasker and a busy bee. Perfectionist. Photography lover. Content creator.
   ## 🎯 Goals
  - Graduate University  🎓
  - Release my own app 📱
+ - Become a full-stack developer 🦾
  - Keep on improving  🚀
  
  ## 🛠  Technologies / Tools
