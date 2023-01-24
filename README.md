@@ -1,16 +1,13 @@
 ### Hi there 👋    I'm Kat.
 
-Frontend developer. Third year (Bsc) Digital Design and Web Development student on Solent Univeristy.<br>
+Developer. Bachelor of Sciene: Digital Design and Web Development, graduated Solent Univeristy in 2022.<br>
 Multi-tasker and a busy bee. Perfectionist. Photography lover. Content creator.
  
   ## ✨ Current Interests 
- - API
- - mobile app development (Ionic)
+ - Statamic
+ - Laravel
  
   ## 🎯 Goals
- - Graduate University  🎓
- - Release my own app 📱
- - Become a full-stack developer 🦾
  - Keep on improving  🚀
  
  ## 🛠  Technologies / Tools
