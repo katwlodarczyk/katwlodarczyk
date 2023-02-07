@@ -1,6 +1,8 @@
 ### Hi there 👋    I'm Kat.
 
-Developer. Bachelor of Sciene: Digital Design and Web Development, graduated Solent Univeristy in 2022.<br>
+Developer since 2020.<br>
+Bachelor of Sciene: Digital Design and Web Development, graduated Solent Univeristy in 2022.<br>
+British Computing Society (BCS) award winner for digital development in 2022. <br>
 Multi-tasker and a busy bee. Perfectionist. Photography lover. Content creator.
  
   ## ✨ Current Interests 
